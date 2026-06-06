@@ -1,17 +1,10 @@
 <div align="center">
 
 ```
-██╗     ██╗   ██╗██╗███████╗
-██║     ██║   ██║██║██╔════╝
-██║     ██║   ██║██║███████╗
-██║     ██║   ██║██║╚════██║
-███████╗╚██████╔╝██║███████║
-╚══════╝ ╚═════╝ ╚═╝╚══════╝
+
 ```
 
-### Luis Carlos · Full-Stack Developer & AI Student
-
-*Construindo interfaces, sistemas e ideias — do front ao firmware.*
+### Luis Carlos · Desenvolvedor Full-Stack e Engenheiro em Inteligência Artificial 
 
 ---
 
@@ -52,7 +45,7 @@ interesses:
 
 ---
 
-## `$ ls ./projects`
+## Projetos
 
 <table>
   <tr>
@@ -95,29 +88,18 @@ interesses:
 
 ---
 
-## `$ cat ./stats`
-
-<div align="center">
-
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiscarlos-x&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6ee7b7&icon_color=6ee7b7&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarlos-x&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6ee7b7&text_color=c9d1d9)
-
 </div>
 
 ---
 
-## `$ ping ./contact`
+## `Contato`
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-luiscarlos20507%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luiscarlos20507@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-luiscarlos--x-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luiscarlos-x)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(99)%2098428--1338-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5599984281338)
 
 ---
-
-*"Código é o meio. O impacto é o fim."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=luiscarlos-x&color=6ee7b7&style=flat-square&label=visitas)
 
