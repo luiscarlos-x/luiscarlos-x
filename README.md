@@ -1,10 +1,5 @@
-<div align="center">
 
-```
-
-```
-
-### Luis Carlos · Desenvolvedor Full-Stack e Engenheiro em Inteligência Artificial 
+### Luis Carlos · Desenvolvedor Full-Stack e Bacharelando em Inteligência Artificial 
 
 ---
 
@@ -95,9 +90,5 @@ interesses:
 
 [![Gmail](https://img.shields.io/badge/Gmail-luiscarlos20507%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luiscarlos20507@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-luiscarlos--x-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luiscarlos-x)
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=luiscarlos-x&color=6ee7b7&style=flat-square&label=visitas)
 
 </div>
