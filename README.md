@@ -14,24 +14,21 @@
 
 ---
 
-## `$ whoami`
+## Sobre mim
 
 ```yaml
-nome:       Luis Carlos Barbosa de Almeida
-localização: Teresina, PI — Brasil
+nome: Luis Carlos Barbosa de Almeida
 formação:
-  - Técnico em Informática · IEMA (Concluído)
   - Bacharelado em Inteligência Artificial · PIT (Em andamento)
 interesses:
   - Desenvolvimento Full-Stack
   - Inteligência Artificial & Machine Learning
   - IoT e Sistemas Embarcados
-  - Impacto Social com Tecnologia
 ```
 
 ---
 
-## `$ ls ./skills`
+## Skills
 
 <div align="center">
 
@@ -92,7 +89,7 @@ interesses:
 
 ---
 
-## `Contato`
+## Contato
 
 <div align="center">
 
